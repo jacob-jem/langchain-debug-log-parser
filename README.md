@@ -1,6 +1,6 @@
 # LANGCHAIN CONSOLE DEBUG PARSER
-#### Video Demo: <URL HERE>
-#### Description:
+#### Video Demo: https://youtu.be/MutxkDQxLxo
+#### Description: Parses LangChain console debug logs into a readable, structured report — CS50P final project
 
 ## Introduction
 
