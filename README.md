@@ -51,3 +51,7 @@ Each function above has its own test.
 **test_get_llm_fields** checks a properly formed input and confirms non-dictionary input returns an empty dictionary instead of raising an error. 
 
 **test_write_report** uses `io.StringIO` as a stand-in file object, so the exact text written to the report can be checked directly without creating real files on disk. It confirms both the normal output for every event type and the fallback output, with "N/A" in place of missing data, when an event is constructed with entirely None attributes.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
